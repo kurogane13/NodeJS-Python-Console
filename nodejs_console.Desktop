@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=nodejs_console.Desktop
+Comment=
+Exec=/usr/bin/python3.6 /home/$USER/nodejs_bash_scripts/nodejs_console.py
+Icon=/home/gus/Pictures/launcher_icons/NodeJs.png
+Terminal=false
+Type=Application
+Categories=Application
